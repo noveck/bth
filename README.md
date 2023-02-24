@@ -1,16 +1,11 @@
-# WordBeater
 
-> Simple speed typing app built with JavaScript
-
-## Use
-
-Run index.html in a browser
-
-Try it - [WordBeater Game](https://bradtraversy.github.io/wordbeater)
 
 ## App Info
 
-### Author
+# Beat the Hacker
+A wordgame created for CyberSafeTT booth demos
+
+### Forked from
 
 Brad Traversy
 [Traversy Media](http://www.traversymedia.com)

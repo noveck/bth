@@ -29,9 +29,9 @@ function load_more_words()
 
 // Available Levels
 const levels = {
-  easy: 5,
-  medium: 3,
-  hard: 1
+  easy: 10,
+  medium: 5,
+  hard: 3
 };
 
 // To change level
@@ -50,36 +50,7 @@ const message = document.querySelector('#message');
 const seconds = document.querySelector('#seconds');
 const highscoreDisplay = document.querySelector('#highscore');
 
-var words = [
-  'hat',
-  'river',
-  'lucky',
-  'statue',
-  'generate',
-  'stubborn',
-  'cocktail',
-  'runaway',
-  'joke',
-  'developer',
-  'establishment',
-  'hero',
-  'javascript',
-  'nutrition',
-  'revolver',
-  'echo',
-  'siblings',
-  'investigate',
-  'horrendous',
-  'symptom',
-  'laughter',
-  'magic',
-  'master',
-  'space',
-  'definition',
-  'champion',
-  'ghost',
-  'fierce'
-];
+var words = ['cybersafett'];
 
 // Initialize Game
 function init() {
