@@ -14,8 +14,12 @@ A wordgame created for CyberSafeTT booth demos
 - html made responsive (to test)
 
 ## to do
-add mode button for user to select play mode
-maybe customize the message to stand out more
+- add mode button for user to select play mode
+- maybe customize the message to stand out more
+
+## Bugs
+High score is wiped on play again.
+
 
 ### Forked from
 
